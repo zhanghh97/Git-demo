@@ -2,5 +2,6 @@
 hello git
 hello git
 hello git
-hello git host-fix
+hello git
 master 	chong tu he bing
+hot-fix chong tu he bing
